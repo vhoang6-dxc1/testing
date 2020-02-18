@@ -1,5 +1,0 @@
-- name: sonar-scanner
-  uses: Warchant/setup-sonar-scanner@v1
-  with:
-    # Sonar-scanner version
-    version: # default is 4.2.0.1873
